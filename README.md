@@ -6,8 +6,7 @@ I'm a passionate developer with a strong interest in open-source projects and in
 
 - 🔭 Trying to learn coding languages 
 - 🌱 Learning with new technologies
-- ✨ Looking to collaborate on exciting and impactful projects
-- 📫 How to reach me: thearka96@gmail.com
+- ✨ Looking to collaborate on exciting and impactful project
 
 ## GitHub Stats
 
