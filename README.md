@@ -6,7 +6,7 @@ I'm a passionate developer with a strong interest in open-source projects and in
 
 - 🔭 Trying to learn coding languages 
 - 🌱 Learning with new technologies
-- ✨ Looking to collaborate on exciting and impactful project
+- ✨ Looking to collaborate on exciting and impactful projects
 
 ## GitHub Stats
 
